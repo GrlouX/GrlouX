@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! 👋 Sejam bem vindas e bem vindos ao meu perfil!
 
 <!--
 **GrlouX/GrlouX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Minha formação é em matemática. Atualmente trabalho na área educacional, com foco em problemas administrativos ligados à gestão de recursos materiais, físicos e financeiros.
+
+Meus principais interesses estão ligados ao uso da tecnologia para solução de problemas, análise de dados para tomada de decisão e inteligência artificial. Possuo grande familiaridade com a linguagem R, além de boas noções de Python, HTML e SQL. 
+
+Tenho estudado a respeito de Open Data, uso de APIs web, JavaScript e suas variações (JSON, AJAX, jquery), manipulação de bancos de dados NoSQL (principalmente MongoDB) e desenvolvimento de chatbots com a interface IBM Watson.
+
+Nas horas vagas, arrisco alguns traços de desenhos e rabiscos de histórias de ficção. E tenho um gosto surreal por rock & roll e jogos antigos (como atesta o áudio desta página).
