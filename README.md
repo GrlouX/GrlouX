@@ -1,5 +1,7 @@
 ### Olá! 👋 Sejam bem vindas e bem vindos ao meu perfil!
 
+<audio src="https://www.mboxdrive.com/rockn-roll-racing-soundtrack.mp3" type="audio/mp3" autoplay="true" loop></audio>
+
 <!--
 **GrlouX/GrlouX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
