@@ -1,7 +1,5 @@
 ### Olá! 👋 Sejam bem vindas e bem vindos ao meu perfil!
 
-<audio controls src="https://www.mboxdrive.com/rockn-roll-racing-soundtrack.mp3" type="audio/mp3" loop></audio>
-
 <!--
 **GrlouX/GrlouX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,4 +21,4 @@ Meus principais interesses estão ligados ao uso da tecnologia para solução de
 
 Tenho estudado a respeito de Open Data, uso de APIs web, JavaScript e suas variações (JSON, AJAX, jquery), manipulação de bancos de dados NoSQL (principalmente MongoDB) e desenvolvimento de chatbots com a interface IBM Watson.
 
-Nas horas vagas, arrisco alguns traços de desenhos e rabiscos de histórias de ficção. E tenho um gosto surreal por rock & roll e jogos antigos (como atesta o áudio desta página).
+Nas horas vagas, arrisco alguns traços de desenhos e rabiscos de histórias de ficção. E tenho um gosto surreal por rock & roll e jogos antigos.
