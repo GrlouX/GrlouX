@@ -19,6 +19,6 @@ Minha formação é em matemática. Atualmente trabalho na área educacional, co
 
 Meus principais interesses estão ligados ao uso da tecnologia para solução de problemas, análise de dados para tomada de decisão e inteligência artificial. Possuo grande familiaridade com a linguagem R, além de boas noções de Python, HTML e SQL. 
 
-Tenho estudado a respeito de Open Data, uso de APIs web, JavaScript e suas variações (JSON, AJAX, jquery), manipulação de bancos de dados NoSQL (principalmente MongoDB) e desenvolvimento de chatbots com a interface IBM Watson.
+Tenho estudado a respeito de Open Data, uso de APIs web, JavaScript e suas variações (JSON, AJAX, jQuery, NodeJS), manipulação de bancos de dados NoSQL (principalmente MongoDB) e desenvolvimento de chatbots com a interface IBM Watson.
 
-Nas horas vagas, arrisco alguns traços de desenhos e rabiscos de histórias de ficção. E tenho um gosto surreal por rock & roll e jogos antigos.
+Nas horas vagas, arrisco uns traços de desenhos e rabiscos de histórias de ficção. E tenho um gosto surreal por rock & roll e games antigos.
