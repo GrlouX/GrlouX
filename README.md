@@ -21,4 +21,4 @@ Meus principais interesses estão ligados ao uso da tecnologia para solução de
 
 Tenho estudado a respeito de Open Data, legislação sobre dados, uso de APIs web, JavaScript e suas variações (JSON, AJAX, jQuery, NodeJS), manipulação de bancos de dados NoSQL (principalmente MongoDB) e desenvolvimento de chatbots com a interface IBM Watson.
 
-Nas horas vagas, arrisco uns traços de desenhos e rabiscos de histórias de ficção. E tenho um gosto surreal por rock'n'roll e games antigos.
+Nas horas vagas, arrisco uns traços de desenhos e rabisco umas histórias de ficção. Também tenho um gosto surreal por rock'n'roll e games antigos [(não clique aqui)](https://www.youtube.com/watch?v=55Pk2qNVvKk&ab_channel=WorldofLongplays).
