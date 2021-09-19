@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Minha formação é em matemática. Atualmente trabalho na área educacional, com foco em problemas administrativos ligados à gestão de recursos materiais, físicos e financeiros.
+Minha formação é em matemática. Atualmente trabalho na área educacional, com foco em problemas administrativos ligados à gestão de recursos materiais, patrimoniais e financeiros.
 
-Meus principais interesses estão ligados ao uso da tecnologia para solução de problemas, análise de dados para tomada de decisão e inteligência artificial. Possuo grande familiaridade com a linguagem R, além de boas noções de Python, HTML e SQL. 
+Meus principais interesses estão ligados ao uso da tecnologia para solução de problemas, análise de dados para tomada de decisão e inteligência artificial. Possuo familiaridade com a linguagem R, além de boas noções de Python, HTML e SQL. 
 
-Tenho estudado a respeito de Open Data, uso de APIs web, JavaScript e suas variações (JSON, AJAX, jQuery, NodeJS), manipulação de bancos de dados NoSQL (principalmente MongoDB) e desenvolvimento de chatbots com a interface IBM Watson.
+Tenho estudado a respeito de Open Data, legislação aplicada a dados, uso de APIs web, JavaScript e suas variações (JSON, AJAX, jQuery, NodeJS), manipulação de bancos de dados NoSQL (principalmente MongoDB) e desenvolvimento de chatbots com a interface IBM Watson.
 
 Nas horas vagas, arrisco uns traços de desenhos e rabiscos de histórias de ficção. E tenho um gosto surreal por rock'n'roll e games antigos.
