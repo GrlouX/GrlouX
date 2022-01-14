@@ -19,6 +19,6 @@ Minha formação é em matemática. Atualmente trabalho na área educacional, co
 
 Meus principais interesses estão ligados ao uso da tecnologia para solução de problemas, análise de dados para tomada de decisão e aplicações de inteligência artificial. Possuo familiaridade com a linguagem R, além de boas noções de Python e SQL. 
 
-Tenho estudado a respeito de Open Data, legislação sobre dados, ferramentas para análise de dados, machine learning, uso de APIs web, JavaScript, manipulação de bancos de dados NoSQL (principalmente MongoDB), criação de chatbots na interface IBM Watson, Apex e Visualforce.
+Tenho estudado a respeito de Open Data, legislação sobre dados, ferramentas para análise de dados, machine learning, uso de APIs web, JavaScript, manipulação de bancos de dados NoSQL (principalmente MongoDB), criação de chatbots na interface IBM Watson, Looker e Bigquery na Google Cloud, além das linguagens Apex e Visualforce na plataforma Salesforce.
 
 Nas horas vagas, arrisco uns traços de desenhos e rabisco umas histórias de ficção. Também tenho um gosto surreal por rock'n'roll e videogames antigos. 😄
