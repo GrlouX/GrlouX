@@ -17,7 +17,6 @@
 <div id="social-media">
   <a href="mailto:gracilianolouredo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a href="https://www.linkedin.com/in/graciliano-m%C3%A1rcio-santos-louredo-0b6a27205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a href="https://www.youtube.com/channel/UCAHQGEKWjRbXgdJw6pTjaEw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </div>
 
 
