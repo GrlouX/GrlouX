@@ -1,10 +1,10 @@
 ## Olá! 👋 Sejam bem vindas e bem vindos ao meu perfil!
 
 - 🔭 Atualmente estou trabalhando como técnico administrativo. Meus principais interesses estão ligados ao uso da tecnologia para solução de problemas, análise de dados para tomada de decisão e aplicações de inteligência artificial. Possuo familiaridade com as linguagens R, Python e SQL.
-- 🌱 No momento estou aprendendo sobre manipulação de bancos de dados NoSQL, notadamente com os SGBDs MongoDB e Neo4j. Também tenho estudado a respeito de Open Data, legislação sobre dados, ferramentas para análise de dados e machine learning, uso de APIs web, ChatGPT, Looker Studio, além de recursos da plataforma Salesforce.
+- 🌱 No momento estou aprendendo sobre Apache, MongoDB e Neo4j. Também tenho estudado a respeito de Open Data, legislação sobre dados, ferramentas para análise de dados e machine learning, APIs web, ChatGPT, Looker Studio, além de recursos da plataforma Salesforce.
 - 👯 Estou em busca de projetos para colaborar em análise e visualização de dados relacionados ao universo geek.
 - 💬 Pergunte-me sobre técnicas matemáticas e estatísticas para solução de problemas.
-- 😄 Nas horas vagas, arrisco uns traços de desenhos e rabisco umas histórias de ficção. Também tenho um gosto surreal por rock'n'roll e videogames retrô. 
+- 😄 Nas horas vagas, arrisco uns traços de desenhos e rabisco umas histórias de ficção. Também tenho um gosto surreal por rock'n'roll, cosplay e videogames retrô. 
 
 ### Habilidades
 <div id="code-stats">
