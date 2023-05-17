@@ -1,3 +1,5 @@
+[![pt-br](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/GrlouX/GrlouX/blob/main/README.md)
+
 ## Hello! 👋 Welcome to my profile!
 
 - 🔭 I am currently working as an administrative technician. My main interests are the use of technology for problem solving, data analysis for decision making and artificial intelligence applications. I am familiar with R, Python and SQL languages.
