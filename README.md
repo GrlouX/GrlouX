@@ -1,5 +1,5 @@
-[![pt-br](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/GrlouX/GrlouX/blob/main/README.md)
-[![en](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/GrlouX/GrlouX/blob/main/README.en.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-blue.svg)](https://github.com/GrlouX/GrlouX/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/GrlouX/GrlouX/blob/main/README.en.md)
 
 ## Olá! 👋 Sejam bem vindas e bem vindos ao meu perfil!
 
