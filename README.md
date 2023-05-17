@@ -1,3 +1,6 @@
+[![pt-br](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/GrlouX/GrlouX/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/GrlouX/GrlouX/blob/main/README.en.md)
+
 ## Olá! 👋 Sejam bem vindas e bem vindos ao meu perfil!
 
 - 🔭 Atualmente estou trabalhando como técnico administrativo. Meus principais interesses estão ligados ao uso da tecnologia para solução de problemas, análise de dados para tomada de decisão e aplicações de inteligência artificial. Possuo familiaridade com as linguagens R, Python e SQL.
