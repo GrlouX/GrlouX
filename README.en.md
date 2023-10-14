@@ -6,7 +6,7 @@
 - 🌱 Now I am learning about Apache, MongoDB and Neo4j. I have also been studying about Open Data, data legislation, tools for data analysis and machine learning, web APIs, ChatGPT, Looker Studio and features of the Salesforce Platform.
 - 👯 I am looking for projects to collaborate on data analysis and visualization related to the geek universe.
 - 💬 Ask me about mathematical and statistical problem-solving techniques.
-- 😄 In my spare time, I dabble in drawings and doodle fictional stories. I also have a surreal love for rock'n'roll, cosplay and retro games.
+- 😄 In my spare time, I dabble in drawings, doodle fictional stories and try out some rock'n'roll musical notes. I also have a surreal love for cosplay and retro games.
 
 ### Skills
 <div id="code-stats">
