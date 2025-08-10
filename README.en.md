@@ -2,7 +2,7 @@
 
 ## Hello! 👋 Welcome to my profile!
 
-- 🔭 I am currently working as an administrative technician. My main interests are the use of technology for problem solving, data analysis for decision making and artificial intelligence applications. I am familiar with R, Python and SQL languages.
+- 🔭 I am currently working as external auditor. My main interests are the use of technology for problem solving, data analysis for decision making and artificial intelligence applications. I am familiar with R, Python and SQL languages.
 - 🌱 Now I am learning about Apache, MongoDB and Neo4j. I have also been studying about Open Data, data legislation, tools for data analysis and machine learning, web APIs, ChatGPT, Looker Studio and features of the Salesforce Platform.
 - 👯 I am looking for projects to collaborate on data analysis and visualization related to the geek universe.
 - 💬 Ask me about mathematical and statistical problem-solving techniques.
